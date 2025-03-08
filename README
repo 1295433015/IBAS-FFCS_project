@@ -18,7 +18,7 @@ Project Structure
 
 Setup and Installation
 	1.	Clone the repository:
-	git clone https://github.com/yourusername/yourprojectname.git
+	git clone https://github.com/1295433015/IBAS-FFCS_project.git
     cd yourprojectname
 	2.	Create a virtual environment (optional but recommended):
 	python -m venv venv
